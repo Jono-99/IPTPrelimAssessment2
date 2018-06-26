@@ -3,4 +3,3 @@
 ### 11:25 - 13:30
 - GitHub repository created.
 - Logbook created.
-- Richard added.
