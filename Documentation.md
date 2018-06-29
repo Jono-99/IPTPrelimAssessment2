@@ -11,10 +11,12 @@
 amazing
 
 ### Hardware and software required
+computers!!!!
 
 ### List of development tools used 
+whaaaa
 
-## Outline of main feature of digital media components
+### Outline of main feature of digital media components
 *insert text font, graphic type/resolution, animation technique here! :D
 
 ## Evaluation
