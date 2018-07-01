@@ -10,3 +10,8 @@
 #### Website
 - Dreamweaver/Github intergration set up on 1 device
 - index.html created
+
+## Monday, 2nd July 2018
+### 09:00 - 09:50
+#### Website
+- style.css created
