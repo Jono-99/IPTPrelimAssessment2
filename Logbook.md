@@ -8,8 +8,8 @@
 ## Thursday, 28th June 2018
 ### 09:00 - 09:50
 #### Website
-- Dreamweaver/Github intergration set up on 1 device
-- index.html created
+- Dreamweaver/Github intergration set up on 1 device.
+- index.html created.
 
 ## Friday, 29th June 2018
 ### 14:10 - 15:10
@@ -21,8 +21,11 @@
 ## Monday, 2nd July 2018
 ### 09:00 - 09:50
 #### Website
-- style.css created
+- style.css created.
 
 ## Tuesday, 3rd July 2018
 ### 11:25 - 12:25
 - Jonathan and Richard were assigned to work on the website, Sophia and Natalie were assigned to work on the infographic and pamphlet.
+#### Website
+- Added logos of ForwardX (parent company) and Ovis to website folder.
+- Dreamweaver/Github intergration set up on 2nd device.
