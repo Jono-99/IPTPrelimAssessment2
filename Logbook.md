@@ -22,3 +22,7 @@
 ### 09:00 - 09:50
 #### Website
 - style.css created
+
+## Tuesday, 3rd July 2018
+### 11:25 - 12:25
+- Jonathan and Richard were assigned to work on the website, Sophia and Natalie were assigned to work on the infographic and pamphlet.
