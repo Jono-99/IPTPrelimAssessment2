@@ -7,9 +7,6 @@
 - Level-1 DFD 
 - Context diagram
 
-### Storyboard (of website)
-amazing
-
 ### Hardware and software required
 computers!!!!
 
