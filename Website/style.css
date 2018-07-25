@@ -14,15 +14,35 @@ p, h1, h2, h3, h4 {
 	display: flex
 }
 
-.footer p {
+.footer-logo {
+	align-items: center;
+	display: flex;
+	width: 50%;
+}
+
+.footer-logo p {
 	color: white;
 	display: inline;
 	text-align: center;
-	margin: 1%
+	margin: 2%
 }
 
-.footer img {
+.footer-logo img {
 	display: inline;
+	margin: 4%;
+}
+
+.footer-menu {
+	align-items: center;
+	display: flex;
+	float: right;
+	width: 50%;
+}
+
+.footer-menu p {
+	color: white;
+	display: inline;
+	float: right;
 	margin: 2%;
 }
 
