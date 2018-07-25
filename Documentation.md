@@ -10,23 +10,21 @@ Information processes:
 - Processing: creating the website, pamphlet and infographic
 - Displaying: publishing website and printing pamphlet and infographic
 
-Users: ?
-Participants: Our group
+- Users: ?
+- Participants: Our group
 
-Available information technology: 
+- Available information technology: 
 
-Data/Information: Information about product
+- Data/Information: Information about product
 
 *Identify the multimedia product and features you plan to create. Justify the selection of the solution by referring back to the SDLC processes of understanding the problem, and planning. Briefly explain the development approach you will apply when creating the solution
 
 ## Planning
-- 
--
 Roles:
-Sophia - Designing infographic and pamphlet, updating documentation
-Natalie - Designing infographic and pamphlet
-Richard - Designing website
-Jonathan - Designing website, updating logbook
+- Sophia: Designing infographic and pamphlet, updating documentation
+- Natalie: Designing infographic and pamphlet
+- Richard: Designing website
+- Jonathan: Designing website, updating logbook
 
 ## Designing
 ### Diagrams (to be done on separate document)
@@ -34,9 +32,9 @@ Jonathan - Designing website, updating logbook
 - Context diagram // done and in need of review
 
 ### Hardware and software required
-Hardware: Laptop, flash drive/USB, Printer
-Software: Adobe InDesign, Dreamweaver, Adobe Photoshop
-Environment: Home and school
+- Hardware: Laptop, flash drive/USB, Printer
+- Software: Adobe InDesign, Dreamweaver, Adobe Photoshop
+- Environment: Home and school
 
 
 ### List of development tools used 
