@@ -30,10 +30,18 @@
 - Added logos of ForwardX (parent company) and Ovis to website folder.
 - Dreamweaver/Github intergration set up on 2nd device.
 
+## Tuesday, 24th July 2018
+### 11:25 - 1:30
+#### Documentation
+- Context diagram finished
+- Added more dot points in documentation (information processes, users and participants, hardware and software)
+
 ## Thursday, 26th July 2018
 ### 09:00 - 09:50
 #### Website
 - Work of the footer of the website was started.
+#### Documentation
+- Data flow data diagram finished
 
 ## Friday, 27th July 2018
 ### 14:10 - 15:10
