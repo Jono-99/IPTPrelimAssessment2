@@ -11,7 +11,8 @@ body {
 }
 
 .header {
-	background-color: #454444;
+	/*background-color: #454444;*/
+	background-color: black;
 	width: 100%;
 	padding: 0%;
 	align-items: center;
@@ -48,11 +49,21 @@ body {
 	float: right;
 }
 
-.top {
+.landing {
 	background-image: url("background.png");
 	background-size: cover;
 	background-position: center center;
 	height: 90vh;
+}
+
+.landing p {
+	text-align: right;
+	color: white;
+	font-size: 48px;
+	width: 50%;
+	float: right;
+	margin: 4%;
+	font-weight: 700;
 }
 
 .greater-video {
@@ -86,7 +97,8 @@ body {
 }
 
 .footer {
-	background-color: #454444;
+	/*background-color: #454444;*/
+	background-color: black;
 	width: 100%;
 	padding-top: 4%;
 	padding-bottom: 2%;
