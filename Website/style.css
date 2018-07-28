@@ -2,19 +2,83 @@
 /* CSS Document */
 
 p, h1, h2, h3, h4 {
-	font-family: Helvetica, sans-serif;
+	font-family: Avenir, sans-serif;
 	
+}
+
+body {
+	margin: 0px;
+}
+
+.header {
+	background-color: #454444;
+	width: 100%;
+	padding: 0%;
+	align-items: center;
+	display: flex;
+}
+
+.header-logo {
+	align-items: center;
+	display: flex;
+	width: 50%;
+}
+
+.header-logo p {
+	color: white;
+	display: inline;
+	text-align: center;
+	margin: 3%;
+}
+
+.header-logo img {
+	display: inline;
+	margin: 4%;
+}
+
+.header-menu {
+	align-items: center;
+	width: 50%;
+	padding-right: 4%;
+}
+
+.header-menu p {
+	color: white;
+	margin-right: 6%;
+	float: right;
+}
+
+.greater-video {
+	display: flex;
+	align-content: center
+}
+
+.video {
+	margin: 8px;
+	padding-bottom: 33.333%;
+	width: 60%;
+	position: relative;
+}
+
+.video-msg {
+	align-items: center;
+	display: flex;
+	padding: 3%;
+}
+
+.video-msg p {
+	font-style: bold
+}
+
+.iframe {
+	position: absolute
 }
 
 .footer {
 	background-color: #454444;
 	width: 100%;
-	padding: 1%;
-	padding-top: 30px;
-	padding-bottom: 30px;
-	align-items: center;
-	display: flex;
-	margin-left: -8px;
+	padding-top: 4%;
+	padding-bottom: 2%;
 }
 
 .footer-logo {
@@ -45,6 +109,23 @@ p, h1, h2, h3, h4 {
 	color: white;
 	margin-right: 6%;
 	float: right;
+}
+
+.footer-top {
+	align-items: center;
+	display: flex;
+	padding-bottom: 1%;
+}
+
+.footer-copyright {
+	display: block;
+}
+
+.footer-copyright p {
+	color: white;
+	font-size: 8px;
+	line-height: 40%;
+	text-align: center;
 }
 
 body {
