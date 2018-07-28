@@ -60,3 +60,9 @@
 ### 17:00 - 18:00
 #### Website
 - Landing view with background image created.
+
+### 20:30 - 22:50
+#### Website
+- General structure of index.html completed.
+- Imported font, animate.css, and wow.js.
+- Draft scroll animations added.
