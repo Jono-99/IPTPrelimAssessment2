@@ -47,3 +47,12 @@
 ### 14:10 - 15:10
 #### Website
 - Work of the footer of the website was continued.
+
+## Saturday, 28th July 2018
+### 14:00 - 15:00
+#### Website
+- A header was added.
+- The main font was changed from Helvetica to Avenir.
+- A youtube video was embeded.
+- A copyright message was added to the footer.
+- Multiple bugs were fixed.
