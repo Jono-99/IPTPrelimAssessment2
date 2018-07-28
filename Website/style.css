@@ -48,6 +48,13 @@ body {
 	float: right;
 }
 
+.top {
+	background-image: url("background.png");
+	background-size: cover;
+	background-position: center center;
+	height: 90vh;
+}
+
 .greater-video {
 	display: flex;
 	align-content: center
@@ -64,10 +71,14 @@ body {
 	align-items: center;
 	display: flex;
 	padding: 3%;
+	float: right;
+	width: 32%;
 }
 
 .video-msg p {
-	font-style: bold
+	font-weight: 900;
+	font-size: 56px;
+	line-height: 100%;
 }
 
 .iframe {
