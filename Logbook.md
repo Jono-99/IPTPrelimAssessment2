@@ -56,3 +56,7 @@
 - A youtube video was embeded.
 - A copyright message was added to the footer.
 - Multiple bugs were fixed.
+
+### 17:00 - 18:00
+#### Website
+- Landing view with background image created.
