@@ -77,6 +77,8 @@ body {
 	display: flex;
 	align-content: center;
 	background-color: white;
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 
 .video {
@@ -104,40 +106,80 @@ body {
 	position: absolute
 }
 
-.pitch-left {
-	padding:20px;
-	background-color: black;
-	height: 400px;
+.left {
+	background-image: url(left.png);
+	background-position: right;
+	background-repeat: no-repeat;
+	height: 500px;
 }
 
-.pitch-left h1 {
+.left-text {
+	padding-left: 5%;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	width: 45%;
+	float: left;
+}
+
+.left h1 {
 	text-align: left;
 	font-size: 48px;
 	color: white;
 }
 
-.pitch-left p {
+.left p {
 	text-align: left;
 	font-size: 24px;
 	color: white;
 }
 
-.pitch-right {
-	padding: 20px;
-	background-color: white;
-	height: 400px;
+.left img {
+	float: right;
+	max-height: 300px;
+	max-width: 40%;
+	display: inline;
+	padding-right: 10%;
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
 
-.pitch-right h1 {
+.right {
+	padding: 30px;
+	background-image: url(right.png);
+	background-position: left;
+	background-repeat: no-repeat;
+	height: 500px;
+}
+
+.right-text {
+	padding-right: 5%;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	width: 45%;
+	float: right;
+	display: inline;
+}
+
+.right h1 {
 	text-align: right;
 	font-size: 48px;
-	color: black;
+	color: white;
 }
 
-.pitch-right p {
+.right p {
 	text-align: right;
 	font-size: 24px;
-	color: black;
+	color: white;
+}
+
+.right img {
+	float: left;
+	max-height: 300px;
+	max-width: 40%;
+	display: inline;
+	padding-left: 10%;
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
 
 .footer {
