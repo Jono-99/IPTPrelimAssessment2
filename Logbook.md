@@ -66,3 +66,9 @@
 - General structure of index.html completed.
 - Imported font, animate.css, and wow.js.
 - Draft scroll animations added.
+
+## Sunday, 29th July 2018
+### 11:45 - 13:00
+#### Website
+- Finished implementing animations.
+- Finished general structure of index.html.
