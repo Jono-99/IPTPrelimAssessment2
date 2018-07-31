@@ -78,6 +78,7 @@
 ## Monday, 30th July 2018
 ### 9:00 - 9:50
 #### Pamphlet
+- Created base structure (color scheme and such) of pamphlet
 - Gathered images for the base of pamphlet
 
 ## Monday, 31st July 2018
