@@ -63,7 +63,7 @@
 
 ### 20:30 - 22:50
 #### Website
-- General structure of index.html completed.
+- Finished draft structure of index.html
 - Imported font, animate.css, and wow.js.
 - Draft scroll animations added.
 
@@ -72,3 +72,8 @@
 #### Website
 - Finished implementing animations.
 - Finished general structure of index.html.
+
+## Monday, 31st July 2018
+### 11:30 - 12:30
+#### Website
+- The client was shown the draft version of the website, and said it was "very good".
