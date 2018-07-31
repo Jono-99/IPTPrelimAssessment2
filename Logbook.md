@@ -29,6 +29,8 @@
 #### Website
 - Added logos of ForwardX (parent company) and Ovis to website folder.
 - Dreamweaver/Github intergration set up on 2nd device.
+#### Pamplet
+- Sketching pamphlet
 
 ## Tuesday, 24th July 2018
 ### 11:25 - 1:30
@@ -77,3 +79,5 @@
 ### 11:30 - 12:30
 #### Website
 - The client was shown the draft version of the website, and said it was "very good".
+#### Pamphlet
+- First panel structure finished (no text)
