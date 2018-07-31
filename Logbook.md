@@ -75,6 +75,11 @@
 - Finished implementing animations.
 - Finished general structure of index.html.
 
+## Monday, 30th July 2018
+### 9:00 - 9:50
+#### Pamphlet
+- Gathered images for the base of pamphlet
+
 ## Monday, 31st July 2018
 ### 11:30 - 12:30
 #### Website
