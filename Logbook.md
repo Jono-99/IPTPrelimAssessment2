@@ -29,6 +29,8 @@
 #### Website
 - Added logos of ForwardX (parent company) and Ovis to website folder.
 - Dreamweaver/Github intergration set up on 2nd device.
+#### Pamplet
+- Sketching pamphlet
 
 ## Tuesday, 24th July 2018
 ### 11:25 - 1:30
@@ -63,7 +65,7 @@
 
 ### 20:30 - 22:50
 #### Website
-- General structure of index.html completed.
+- Finished draft structure of index.html
 - Imported font, animate.css, and wow.js.
 - Draft scroll animations added.
 
@@ -72,3 +74,16 @@
 #### Website
 - Finished implementing animations.
 - Finished general structure of index.html.
+
+## Monday, 30th July 2018
+### 9:00 - 9:50
+#### Pamphlet
+- Created base structure (color scheme and such) of pamphlet
+- Gathered images for the base of pamphlet
+
+## Monday, 31st July 2018
+### 11:30 - 12:30
+#### Website
+- The client was shown the draft version of the website, and said it was "very good".
+#### Pamphlet
+- First panel structure finished (no text)
