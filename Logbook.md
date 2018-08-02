@@ -96,6 +96,6 @@
 #### Pamphlet
 - Redrawn sketch
 
-### 6:00 - 7:30
+### 6:00 - 8:00
 #### Pamphlet
-- First and second panel finished
+- Front page finished
