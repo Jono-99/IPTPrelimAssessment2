@@ -85,6 +85,7 @@
 ### 11:30 - 12:30
 #### Website
 - The client was shown the draft version of the website, and said it was "very good".
+
 #### Pamphlet
 - First panel structure finished (no text)
 
@@ -92,3 +93,9 @@
 ### 11:00 - 11:50
 #### Website
 - The work on the pre-order form commenced.
+#### Pamphlet
+- Redrawn sketch
+
+### 6:00 - 7:30
+#### Pamphlet
+- First and second panel finished
