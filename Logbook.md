@@ -94,7 +94,7 @@
 #### Website
 - The work on the pre-order form commenced.
 #### Pamphlet
-- Redrawn sketch
+- Redrawn initial sketch
 
 ### 6:00 - 8:00
 #### Pamphlet
