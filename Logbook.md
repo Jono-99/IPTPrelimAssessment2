@@ -91,4 +91,4 @@
 ## Thursday, 2nd August 2018
 ### 11:00 - 11:50
 #### Website
-- 
+- The work on the pre-order form commenced.
