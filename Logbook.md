@@ -81,9 +81,14 @@
 - Created base structure (color scheme and such) of pamphlet
 - Gathered images for the base of pamphlet
 
-## Monday, 31st July 2018
+## Tuesday, 31st July 2018
 ### 11:30 - 12:30
 #### Website
 - The client was shown the draft version of the website, and said it was "very good".
 #### Pamphlet
 - First panel structure finished (no text)
+
+## Thursday, 2nd August 2018
+### 11:00 - 11:50
+#### Website
+- 
