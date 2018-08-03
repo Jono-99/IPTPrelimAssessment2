@@ -103,3 +103,7 @@
 ## Friday, 3rd August 2018
 ### 2:10 - 3:10
 - More work on pamphlet, editted image (issue with Photoshop and storage on laptop)
+### 6:30-8:00
+- Information on the website is mostly filled, imported images (problem with pushing the code forward to git)
+
+
