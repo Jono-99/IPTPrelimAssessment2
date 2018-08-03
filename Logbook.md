@@ -99,3 +99,7 @@
 ### 18:00 - 20:00
 #### Pamphlet
 - Front page finished
+
+## Friday, 3rd August 2018
+### 2:10 - 3:10
+- More work on pamphlet, editted image (issue with Photoshop and storage on laptop)
