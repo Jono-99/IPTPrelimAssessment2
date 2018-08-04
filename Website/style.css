@@ -6,13 +6,13 @@
 	src: url(AvenirLTStd-Roman.otf)
 }
 
-p, h1, h2, h3, h4 {
+p, h1, h2, h3, h4, label {
 	font-family: Avenir, sans-serif;
 }
 
 body {
 	margin: 0px;
-	background-color: black;
+	background-color: white;
 }
 
 .header {
@@ -235,4 +235,19 @@ body {
 	font-size: 8px;
 	line-height: 40%;
 	text-align: center;
+}
+
+.preorder {
+	margin: 30px;
+}
+
+.form {
+	width: 400px;
+	margin: 8px;
+	margin-left: 0px;
+}
+
+.form input {
+	width: 200px;
+	float: right;
 }
