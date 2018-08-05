@@ -105,7 +105,9 @@
 - Information on the website is mostly filled, imported images (problem with pushing the code forward to git).
 
 ## Saturday, 4th August 2018
-### 11:30 - 15:00
+### 11:30 - 22:15
 #### Website
-- Substantive work on preorder.html commenced and concluded.
+- Primary work on preorder.html commenced and concluded.
 - HTML code for a country drop down menu was copied from https://www.freeformatter.com/iso-country-list-html-select.html.
+- A testing LAMP server was set up (accessible on 144.132.181.189).
+- Primary work on preordered.php commenced and concluded.
