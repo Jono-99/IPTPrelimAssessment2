@@ -15,8 +15,8 @@
 ### 14:10 - 15:10
 - Chose "Ovis: 1st AI-Powered Suitcase Following by Side" (https://www.indiegogo.com/projects/ovis-1st-ai-powered-suitcase-following-by-side#/).
 - Had initial meeting with end user. They requested:
-  - Asthetically pleasing
-  - Fancy animations
+	- Asthetically pleasing
+	- Fancy animations
 
 ## Monday, 2nd July 2018
 ### 09:00 - 09:50
@@ -30,20 +30,20 @@
 - Added logos of ForwardX (parent company) and Ovis to website folder.
 - Dreamweaver/Github intergration set up on 2nd device.
 #### Pamplet
-- Sketching pamphlet
+- Sketching pamphlet.
 
 ## Tuesday, 24th July 2018
 ### 11:25 - 1:30
 #### Documentation
-- Context diagram finished
-- Added more dot points in documentation (information processes, users and participants, hardware and software)
+- Context diagram finished.
+- Added more dot points in documentation (information processes, users and participants, hardware and software).
 
 ## Thursday, 26th July 2018
 ### 09:00 - 09:50
 #### Website
 - Work of the footer of the website was started.
 #### Documentation
-- Data flow data diagram finished
+- Data flow data diagram finished.
 
 ## Friday, 27th July 2018
 ### 14:10 - 15:10
@@ -58,14 +58,12 @@
 - A youtube video was embeded.
 - A copyright message was added to the footer.
 - Multiple bugs were fixed.
-
 ### 17:00 - 18:00
 #### Website
 - Landing view with background image created.
-
 ### 20:30 - 22:50
 #### Website
-- Finished draft structure of index.html
+- Finished draft structure of index.html.
 - Imported font, animate.css, and wow.js.
 - Draft scroll animations added.
 
@@ -78,12 +76,38 @@
 ## Monday, 30th July 2018
 ### 9:00 - 9:50
 #### Pamphlet
-- Created base structure (color scheme and such) of pamphlet
-- Gathered images for the base of pamphlet
+- Created base structure (color scheme and such) of pamphlet.
+- Gathered images for the base of pamphlet.
 
-## Monday, 31st July 2018
+## Tuesday, 31st July 2018
 ### 11:30 - 12:30
 #### Website
 - The client was shown the draft version of the website, and said it was "very good".
 #### Pamphlet
-- First panel structure finished (no text)
+- First panel structure finished (no text).
+
+## Thursday, 2nd August 2018
+### 11:00 - 11:50
+#### Website
+- preorder.html created.
+#### Pamphlet
+- Redrawn initial sketch.
+### 18:00 - 20:00
+#### Pamphlet
+- Front page finished.
+
+## Friday, 3rd August 2018
+### 2:10 - 3:10
+#### Pamphlet
+- More work on pamphlet, editted image (issue with Photoshop and storage on laptop).
+### 6:30-8:00
+#### Website
+- Information on the website is mostly filled, imported images (problem with pushing the code forward to git).
+
+## Saturday, 4th August 2018
+### 11:30 - 22:15
+#### Website
+- Primary work on preorder.html commenced and concluded.
+- HTML code for a country drop down menu was copied from https://www.freeformatter.com/iso-country-list-html-select.html.
+- A testing LAMP server was set up (accessible on 144.132.181.189).
+- Primary work on preordered.php commenced and concluded.
