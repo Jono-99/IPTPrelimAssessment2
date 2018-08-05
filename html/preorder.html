@@ -22,7 +22,7 @@
 	<div class="preorder">
 		<h1 style="font-size: 48px;margin-bottom:-10px;">Pre-order</h1>
 		<p>Reserve your Ovis suitcase now to be first in line when it enters production.<br>Pre-ordered suitcases will only cost $399, a massive 50% off the normal price.<br>Once Ovis gets closer to production, you will be contacted to request a deposit. Full payment will not be taken until the product is delivered.</p>
-		<form action="/preordered.html" method="get">
+		<form action="/preordered.php" method="post">
 			<div class="form">
     			<label>First Name:</label>
     			<input type="text" name="firstname">
@@ -55,7 +55,7 @@
 			</div>
 			<div class="form">
 				<label>Country:</label>
-				<select style="float:right;">
+				<select style="float:right;" name="country">
 	<option value="AF">Afghanistan</option>
 	<option value="AX">Åland Islands</option>
 	<option value="AL">Albania</option>
@@ -310,7 +310,7 @@
 			<br>
 			<div class="form">
     			<label>Quantity Desired:</label>
-    			<input type="number" name="postcode" maxlength="1" style="width:50px;margin-right:150px;">
+    			<input type="number" name="quantity" maxlength="1" style="width:50px;margin-right:150px;">
 			</div>
 			<input type="submit" value="Reserve my Ovis!">
 		</form>
