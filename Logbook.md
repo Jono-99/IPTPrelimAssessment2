@@ -111,3 +111,10 @@
 - HTML code for a country drop down menu was copied from https://www.freeformatter.com/iso-country-list-html-select.html.
 - A testing LAMP server was set up (accessible on 144.132.181.189).
 - Primary work on preordered.php commenced and concluded.
+
+## Sunday, 5th August 2018
+### 12:30 - 21:30
+#### Website
+- Final work on preordered.php concluded.
+- Mock pre-orders solicited from other students.
+- Branch "Jonathan" merged into "master", uniting the work on the website with the rest of the work.
