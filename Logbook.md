@@ -107,10 +107,11 @@
 ## Saturday, 4th August 2018
 ### 11:30 - 22:15
 #### Website
-- Primary work on preorder.html commenced and concluded.
+- Primary work on preorder.html commenced and completed.
 - HTML code for a country drop down menu was copied from https://www.freeformatter.com/iso-country-list-html-select.html.
 - A testing LAMP server was set up (accessible on 144.132.181.189).
-- Primary work on preordered.php commenced and concluded.
+- The "Website" folder was renamed to "html"
+- Primary work on preordered.php commenced and completed.
 
 ## Sunday, 5th August 2018
 ### 12:30 - 21:30
@@ -123,3 +124,8 @@
 ### 11:25 - 13:30
 #### Website
 - The prototype website was shown to the client, with a positive reaction.
+- Primary work on contact.html was commenced and completed.
+- Primary work on contact.php was commenced and completed.
+- preordered.php was renamed to preorder.php.
+- "Contact" was added to the header on all pages.
+- Other minor work was conducted on preorder.php and preorder.html.
