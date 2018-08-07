@@ -117,4 +117,9 @@
 #### Website
 - Final work on preordered.php concluded.
 - Mock pre-orders solicited from other students.
-- Branch "Jonathan" merged into "master", uniting the work on the website with the rest of the work.
+- Branch "Jonathan" merged into "master", uniftying the work on the website with the rest of the work.
+
+## Tuesday, 7th August 2018
+### 11:25 - 13:30
+#### Website
+- The prototype website was shown to the client, with a positive reaction.
