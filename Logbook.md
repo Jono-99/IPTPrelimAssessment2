@@ -131,6 +131,12 @@
 - Other minor work was conducted on preorder.php and preorder.html.
 - Primary work on about.html was commenced.
 - Improvement and finalisation of the home page index.html.
+- Problem associated with pulling and pushing resolved
 
 #### Pamphlet
 - Finished 2 panels of the back page
+
+### 8:00-9:00
+#### Website
+- Draft of about.html was commenced and completed.
+
