@@ -237,7 +237,7 @@ body {
 	text-align: center;
 }
 
-.preorder {
+.main {
 	margin: 30px;
 }
 
@@ -247,7 +247,7 @@ body {
 	margin-left: 0px;
 }
 
-.form input {
+.form input, .form textarea {
 	width: 200px;
 	float: right;
 }
