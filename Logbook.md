@@ -130,6 +130,7 @@
 - "Contact" and "About" were added to the header on all pages.
 - Other minor work was conducted on preorder.php and preorder.html.
 - Primary work on about.html was commenced.
+- Improvement and finalisation of the home page index.html.
 
 #### Pamphlet
 - Finished 2 panels of the back page
