@@ -32,7 +32,7 @@
 			mkdir("log", 0744);
 		} */
 		$logfile = fopen("msg.txt", "a");
-		fwrite($logfile, $_SERVER['REMOTE_ADDR'] . "@" . getdate()[0] . ": " . $_POST["firstname"] . ", " . $_POST["email"] . ", " . $_POST["message"] . "\n\n\n\n");
+		fwrite($logfile, $_SERVER['REMOTE_ADDR'] . "@" . getdate()[0] . ": " . $_POST["name"] . ", " . $_POST["email"] . ", " . $_POST["message"] . "\n---END MESSAGE---\n\n\n\n");
 		fclose($logfile)?>
 	</div>
 	<div class="footer">
