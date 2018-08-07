@@ -127,5 +127,6 @@
 - Primary work on contact.html was commenced and completed.
 - Primary work on contact.php was commenced and completed.
 - preordered.php was renamed to preorder.php.
-- "Contact" was added to the header on all pages.
+- "Contact" and "About" were added to the header on all pages.
 - Other minor work was conducted on preorder.php and preorder.html.
+- Primary work on about.html was commenced.
