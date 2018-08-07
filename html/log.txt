@@ -1,0 +1,7 @@
+1.144.108.1@1533445287: Adam, Smith, adam@smith.com, +1123456789, 1 Adam Street Washington, , 11111, US, 9.
+192.168.0.8@1533445389: Jonathan, McKitrick, jono_99@live.com, +61411629149, 123 Lane Cove Road North Ryde, , 2113, AU, 2.
+27.33.200.14@1533445657: Jeff, Tatum, hello@gmail.com, 427137923, 373 hello street, , 2065, BG, 420.
+1.144.106.141@1533447069: Steven, Jobs, sjobs@appel.com, 03141592653589, 42 Me ningov, The Universe, 6666, AQ, 8734.
+101.164.73.152@1533449688: Fake, Person, yes.no@gmail.no, no, yellow, blue, 1488, UM, 99999999999999999.
+1.144.105.38@1533605403: my, man, jeff@harrysuhouse.org, +61669699696, Your mums, , , AF, .
+1.144.105.38@1533606221: Tom, Smith, tomsmith@gmail.com, +18 0909 888 767, 2A Cressent St Wollstonecraft, 45, 2065, AQ, 9.
