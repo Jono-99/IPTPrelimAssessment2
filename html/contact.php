@@ -42,7 +42,9 @@
 			</div>
 			<div class="footer-menu">
 				<a href="https://www.indiegogo.com/projects/ovis-1st-ai-powered-suitcase-following-by-side"><p>Indiegogo</p></a>
+				<a href="contact.html"><p>Contact</p></a>
 				<a href="preorder.html"><p>Pre-order</p></a>
+				<a href="about.html"><p>About</p></a>
 				<a href="index.html"><p>Home</p></a>
 			</div>
 		</div>
