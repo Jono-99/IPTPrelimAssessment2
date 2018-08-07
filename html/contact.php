@@ -31,7 +31,7 @@
 		if (!file_exists("log")){
 			mkdir("log", 0744);
 		} */
-		$logfile = fopen("msg.txt", "a");
+		$logfile = fopen("messages.log", "a");
 		fwrite($logfile, $_SERVER['REMOTE_ADDR'] . "@" . getdate()[0] . ": " . $_POST["name"] . ", " . $_POST["email"] . ", " . $_POST["message"] . "\n---END MESSAGE---\n\n\n\n");
 		fclose($logfile)?>
 	</div>

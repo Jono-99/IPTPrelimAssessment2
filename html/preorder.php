@@ -37,7 +37,7 @@
 		if (!file_exists("log")){
 			mkdir("log", 0744);
 		} */
-		$logfile = fopen("log.txt", "a");
+		$logfile = fopen("preorder.log", "a");
 		fwrite($logfile, $_SERVER['REMOTE_ADDR'] . "@" . getdate()[0] . ": " . $_POST["firstname"] . ", " . $_POST["lastname"] . ", " . $_POST["email"] . ", " . $_POST["phone"] . ", " . $_POST["address1"] . ", " . $_POST["address2"] . ", " . $_POST["postcode"] . ", " . $_POST["country"] . ", " . $_POST["quantity"] . ".\n");
 		fclose($logfile)?>
 	</div>
