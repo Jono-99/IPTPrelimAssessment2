@@ -140,3 +140,7 @@
 #### Website
 - Draft of about.html was commenced and completed.
 
+## Thursday, 9th August 2018
+### 8:50 - 9:45
+#### Pamphlet
+- Some fonts could not be detected in a computer, replacement fonts used
