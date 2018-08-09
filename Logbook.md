@@ -149,4 +149,4 @@
 
 ### 7:30 - 8:50
 #### Pamphlet
-- Last 3rd panel completed
+- Finished with pamphlet
