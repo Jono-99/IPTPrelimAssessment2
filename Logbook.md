@@ -125,13 +125,14 @@
 #### Website
 - The prototype website was shown to the client, with a positive reaction.
 - Primary work on contact.html was commenced and completed.
+	- Difficulty was encountered when attempting to widen the message box, as it broke certain components of formating. To save time, the message box was left at the same width as the other forms.
 - Primary work on contact.php was commenced and completed.
 - preordered.php was renamed to preorder.php.
 - "Contact" and "About" were added to the header on all pages.
 - Other minor work was conducted on preorder.php and preorder.html.
 - Primary work on about.html was commenced.
 - Improvement and finalisation of the home page index.html.
-- Problem associated with pulling and pushing resolved
+- Problem associated with pulling and pushing resolved.
 #### Pamphlet
 - Finished 2 panels of the back page
 ### 20:00 - 21:00
@@ -143,7 +144,7 @@
 #### Pamphlet
 - Some fonts could not be detected in a computer, replacement fonts used
 #### Website
-- Work was manually merged onto the main branch.
+- Work was manually merged onto the main branch due to issues with automated pull requests.
 - Futher work on index.html took place.
 
 ### 7:30 - 
