@@ -152,3 +152,6 @@
 - Finished with pamphlet
 #### Documentation
 - ethical-concerns.md created and completed.
+#### Website
+- Improvement and finalisation of about.html took place.
+Jono I'm done
