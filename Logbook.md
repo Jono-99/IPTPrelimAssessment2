@@ -147,6 +147,8 @@
 - Work was manually merged onto the main branch due to issues with automated pull requests.
 - Futher work on index.html took place.
 
-### 7:30 - 8:50
+### 19:30 - 20:50
 #### Pamphlet
 - Finished with pamphlet
+#### Documentation
+- ethical-concerns.md created and completed.
