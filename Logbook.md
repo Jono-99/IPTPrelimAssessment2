@@ -147,6 +147,6 @@
 - Work was manually merged onto the main branch due to issues with automated pull requests.
 - Futher work on index.html took place.
 
-### 7:30 - 
+### 7:30 - 8:50
 #### Pamphlet
-- Work on pamphlet continued
+- Last 3rd panel completed
