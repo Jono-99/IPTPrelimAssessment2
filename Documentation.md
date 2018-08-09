@@ -27,6 +27,9 @@ Roles:
 - Jonathan: Designing website, updating logbook
 
 ## Designing
+### Gantt Chart
+- Uploaded onto Github, please add changes!
+
 ### Diagrams (to be done on separate document)
 - Level-1 DFD 
 - Context diagram // done and in need of review
