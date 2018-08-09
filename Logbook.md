@@ -145,3 +145,7 @@
 #### Website
 - Work was manually merged onto the main branch.
 - Futher work on index.html took place.
+
+### 7:30 - 
+#### Pamphlet
+- Work on pamphlet continued
