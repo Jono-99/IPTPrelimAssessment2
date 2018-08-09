@@ -74,7 +74,7 @@
 - Finished general structure of index.html.
 
 ## Monday, 30th July 2018
-### 9:00 - 9:50
+### 09:00 - 09:50
 #### Pamphlet
 - Created base structure (color scheme and such) of pamphlet.
 - Gathered images for the base of pamphlet.
@@ -97,10 +97,10 @@
 - Front page finished.
 
 ## Friday, 3rd August 2018
-### 2:10 - 3:10
+### 14:10 - 15:10
 #### Pamphlet
 - More work on pamphlet, editted image (issue with Photoshop and storage on laptop).
-### 6:30-8:00
+### 18:30 - 20:00
 #### Website
 - Information on the website is mostly filled, imported images (problem with pushing the code forward to git).
 
@@ -132,15 +132,16 @@
 - Primary work on about.html was commenced.
 - Improvement and finalisation of the home page index.html.
 - Problem associated with pulling and pushing resolved
-
 #### Pamphlet
 - Finished 2 panels of the back page
-
-### 8:00-9:00
+### 20:00 - 21:00
 #### Website
 - Draft of about.html was commenced and completed.
 
 ## Thursday, 9th August 2018
-### 8:50 - 9:45
+### 08:50 - 09:45
 #### Pamphlet
 - Some fonts could not be detected in a computer, replacement fonts used
+#### Website
+- Work was manually merged onto the main branch.
+- Futher work on index.html took place.
