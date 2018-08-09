@@ -1,6 +1,6 @@
 # Documentation
 (all these are just dot points and need to be put together :) )
-## Requirement report
+## Requirement report (Jonathan is currently working on this)
 
 User needs: Aesthetically pleasing and fancy animations
 
