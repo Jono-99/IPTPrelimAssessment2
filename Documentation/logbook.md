@@ -154,5 +154,6 @@
 - ethical-concerns.md created and completed.
 - requirement-report.md created and completed.
 - hardware-software.md created and completed.
+- digital-components.md created and completed. 
 #### Website
 - Improvement and finalisation of about.html took place.
