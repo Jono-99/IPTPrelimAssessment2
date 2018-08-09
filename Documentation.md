@@ -43,7 +43,7 @@ whaaaa
 ### Outline of main feature of digital media components
 *insert text font, graphic type/resolution, animation technique here! :D
 
-## Information research
+## Information research (Sophia will do this)
 
 ## Social and ethical issues
 
