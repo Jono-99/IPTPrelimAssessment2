@@ -31,6 +31,7 @@
 - Dreamweaver/Github intergration set up on 2nd device.
 #### Pamplet
 - Sketching pamphlet.
+	- Not much ideas were made so not much of the sketch was finished.
 
 ## Tuesday, 24th July 2018
 ### 11:25 - 1:30
@@ -50,6 +51,10 @@
 #### Website
 - Work of the footer of the website was continued.
 
+#### Pamphlet
+- Screenshots from the promotional video for Ovis were taken.
+	- Not much progress on the pamphlet as storyboard was left at home.
+
 ## Saturday, 28th July 2018
 ### 14:00 - 15:00
 #### Website
@@ -61,6 +66,7 @@
 ### 17:00 - 18:00
 #### Website
 - Landing view with background image created.
+
 ### 20:30 - 22:50
 #### Website
 - Finished draft structure of index.html.
@@ -77,29 +83,37 @@
 ### 09:00 - 09:50
 #### Pamphlet
 - Created base structure (color scheme and such) of pamphlet.
-- Gathered images for the base of pamphlet.
+- Gathered more images for the base of pamphlet.
 
 ## Tuesday, 31st July 2018
 ### 11:30 - 12:30
 #### Website
 - The client was shown the draft version of the website, and said it was "very good".
 #### Pamphlet
-- First panel structure finished (no text).
+- First panel structure was finished but had no text.
+	- Sketch ideas were barely used as images did not have a high enough quality for the original idea.
+	- The large images initial idea was made to be smaller due to quality.
 
 ## Thursday, 2nd August 2018
 ### 11:00 - 11:50
 #### Website
 - preorder.html created.
 #### Pamphlet
-- Redrawn initial sketch.
+- Drawing of a new sketch.
+	- Laptop did not have battery which caused no progress to the pamphlet.
+	- First sketch was lost so the creation of a new sketch was commenced.
+
 ### 18:00 - 20:00
 #### Pamphlet
-- Front page finished.
+- Front page finished. 
+	- The structure of the pamphlet had changed due to new ideas formed while creating the pamphlet.
+	- Redrawn sketch.
 
 ## Friday, 3rd August 2018
 ### 14:10 - 15:10
 #### Pamphlet
-- More work on pamphlet, editted image (issue with Photoshop and storage on laptop).
+- Majority of time spent on editing images to have a transparent background which caused the pamphlet progress to hinder.
+	- Laptop did not have storage and had difficulty in editing.
 ### 18:30 - 20:00
 #### Website
 - Information on the website is mostly filled, imported images (problem with pushing the code forward to git).
@@ -134,7 +148,9 @@
 - Improvement and finalisation of the home page index.html.
 - Problem associated with pulling and pushing resolved.
 #### Pamphlet
-- Finished 2 panels of the back page
+- 2 Panels of the back pages were completed.
+	- Editing images in Photoshop took time which caused the 3rd panel have no progress.
+
 ### 20:00 - 21:00
 #### Website
 - Draft of about.html was commenced and completed.
@@ -142,14 +158,18 @@
 ## Thursday, 9th August 2018
 ### 08:50 - 09:45
 #### Pamphlet
-- Some fonts could not be detected in a computer, replacement fonts used
+- Main laptop that is used to edit the pamphlet was unavailable.
+	- A school computer was used but the main font was not installed into the computer.
+	- Icons were gathered and edited instead of working on the pamphlet to ensure time is spent well.
+	- Not much progress for the pamphlet occured so continuation will begin at home.
 #### Website
 - Work was manually merged onto the main branch due to issues with automated pull requests.
 - Futher work on index.html took place.
 
 ### 19:30 - 23:00
 #### Pamphlet
-- Finished with pamphlet
+- Pamphlet was completed.
+	- There was an issue with the image links not available but it was fixed when files were moved to the same folder as the pamphlet.
 #### Documentation
 - ethical-concerns.md created and completed.
 - requirement-report.md created and completed.
