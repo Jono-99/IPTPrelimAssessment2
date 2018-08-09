@@ -1,5 +1,4 @@
 # Documentation
-(all these are just dot points and need to be put together :) )
 
 ## Requirement report (Jonathan is currently working on this)
 - In separate document
@@ -13,9 +12,7 @@
 - Context diagram // done and in need of review
 
 ### Hardware and software required
-- Hardware: Laptop, flash drive/USB, Printer
-- Software: Adobe InDesign, Dreamweaver, Adobe Photoshop
-- Environment: Home and school
+- In separate document
 
 ### List of development tools used 
 whaaaa
