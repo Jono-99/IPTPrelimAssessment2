@@ -3,6 +3,8 @@ Note: Will be deleted once other documents have been seperated.
 
 Jonathan: I believe we just have the statement of intent to do. Going to bed now, will finish tomorrow.
 
+Sophia: Any other additional changes to the gantt chart or diagrams will be appreciated because I think there isn't enough information, but if there are no other additional changes to be made then that is fine as well. A little more detail in the logbook is suggested but not required :)
+
 ## Requirement report (Jonathan is currently working on this)
 - In separate document
 
