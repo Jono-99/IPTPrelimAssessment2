@@ -1,4 +1,6 @@
 # Documentation
+Note: Will be deleted once other documents have been seperated.
+Jonathan: I believe we just have the statement of intent to do.
 
 ## Requirement report (Jonathan is currently working on this)
 - In separate document
