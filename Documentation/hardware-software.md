@@ -1,0 +1,14 @@
+# Hardware, software and development tools used
+- Adobe Dreamweaver
+- Adobe InDesign
+- Git
+- Github
+- SSH
+- Various generic personal computers
+- Raspberry Pi 2
+- Raspbian (Linux-based OS for Raspberry Pis)
+- Apache
+- PHP
+- FileZilla (FTP app)
+- animation.css (https://daneden.github.io/animate.css/)
+- WOW.js (https://github.com/matthieua/WOW)
