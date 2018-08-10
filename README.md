@@ -1,7 +1,7 @@
 # IPTPrelimAssessment2
 Are we done?
 
-STOP: Don't make any changes for a sec, I will organise things into folders.
+Sophia, can you please re-export the pamphlet as a PDF, the png is very low resolution.
 
 Sophia: I think all that's left is a group evaluation?
 
