@@ -1,7 +1,7 @@
 # IPTPrelimAssessment2
-Are we done?
+Are we done? Yes :D
 
-Sophia: I typed some of the group evaluation, hopefully it isn't so bad because I didn't know what to write :D
+Sophia: For the submission, the only file I'm able to submit is the self evaluation, right?
 
 Jonathan: It was good, I added one more sentence, but I agreed with it pretty much, and it is only worth something like 1.25 marks, so I think you have written enough.
 
