@@ -32,6 +32,8 @@
 #### Pamplet
 - Sketching pamphlet.
 	- Not much ideas were made so not much of the sketch was finished.
+#### Infographic
+- First sketch for infographic started
 
 ## Tuesday, 24th July 2018
 ### 11:25 - 1:30
@@ -53,7 +55,7 @@
 
 #### Pamphlet
 - Screenshots from the promotional video for Ovis were taken.
-	- Not much progress on the pamphlet as storyboard was left at home.
+	- Not much progress on the pamphlet as storyboard was left at home but a redrawing of the initial sketch is planned.
 
 ## Saturday, 28th July 2018
 ### 14:00 - 15:00
@@ -85,6 +87,9 @@
 - Created base structure (color scheme and such) of pamphlet.
 - Gathered more images for the base of pamphlet.
 
+#### Infographic
+- Gathered images from Ovis Indiegogo page and researched inspirations
+
 ## Tuesday, 31st July 2018
 ### 11:30 - 12:30
 #### Website
@@ -114,6 +119,10 @@
 #### Pamphlet
 - Majority of time spent on editing images to have a transparent background which caused the pamphlet progress to hinder.
 	- Laptop did not have storage and had difficulty in editing.
+#### Infographic
+- Redrawn sketch due to opinions by other people 
+	- Time most spent on this and nothing for infographic happened. 
+	
 ### 18:30 - 20:00
 #### Website
 - Information on the website is mostly filled, imported images (problem with pushing the code forward to git).
@@ -150,6 +159,9 @@
 #### Pamphlet
 - 2 Panels of the back pages were completed.
 	- Editing images in Photoshop took time which caused the 3rd panel have no progress.
+#### Infographic
+- First half of infographic finished
+	- Previously gathered images did not feel appropriate for the infographic so research for more images commenced. 
 
 ### 20:00 - 21:00
 #### Website
@@ -162,6 +174,9 @@
 	- A school computer was used but the main font was not installed into the computer.
 	- Icons were gathered and edited instead of working on the pamphlet to ensure time is spent well.
 	- Not much progress for the pamphlet occured so continuation will begin at home.
+#### Infographic
+- Colour scheme for infographic changed due to suggestions
+	- Time spent on looking for good colours that can somehow match the pamphlet a bit. 
 #### Website
 - Work was manually merged onto the main branch due to issues with automated pull requests.
 - Futher work on index.html took place.
@@ -170,6 +185,8 @@
 #### Pamphlet
 - Pamphlet was completed.
 	- There was an issue with the image links not available but it was fixed when files were moved to the same folder as the pamphlet.
+#### Infographic
+- Infographic was finished. 
 #### Documentation
 - ethical-concerns.md created and completed.
 - requirement-report.md created and completed.
